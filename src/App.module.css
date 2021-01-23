@@ -1,0 +1,16 @@
+.Title {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 40px;
+  font-weight: 900;
+}
+
+.Text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
